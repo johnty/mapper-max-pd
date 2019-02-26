@@ -205,6 +205,7 @@
 				PRODUCT_NAME = mapper;
 				SDKROOT = macosx;
 				SKIP_INSTALL = NO;
+				VALID_ARCHS = i386;
 				WARNING_CFLAGS = (
 					"-Wmost",
 					"-Wno-four-char-constants",
